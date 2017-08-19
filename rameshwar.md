@@ -45,4 +45,14 @@ gem --version
 gem install rails -v 5.1.1
 ```
 
+install Node.js
+
+https://github.com/tj/n
+```sh
+npm install -g n
+sudo npm install -g n
+npm link n
+sudo n --version
+
+
 
