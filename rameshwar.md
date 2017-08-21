@@ -22,8 +22,8 @@ https://gorails.com/setup/ubuntu/16.04
 https://github.com/rbenv/ruby-build
 
 ```sh
-rbenv install 2.3.4
-rbenv global 2.3.4
+rbenv install 2.3.3
+rbenv global 2.3.3
 ruby --version
 ```
 Setting Up PostgreSQL
